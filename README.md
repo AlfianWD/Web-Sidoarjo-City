@@ -1,9 +1,8 @@
 # Website-Sidoarjo-City
-Pembuat : Alfian Wahyu Dzulkarnaen
+Creator: Alfian Wahyu Dzulkarnaen
 
-Website ini merupakan website atau blog yang menyampaikan terkait sejarah, daftar bupati, geografis dari kota sidoarjo
-
-tool yang terdapat pada website ini, yaitu ;
+This website is a website or blog that conveys the history, list of regents, geography of the city of sidoarjo.
+tools contained on this website, namely:
 
 1. HTML
 2. CSS
